@@ -16,7 +16,7 @@
 
 <img src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/letterbox.gif?raw=true" width="24" />&nbsp;&nbsp; How to reach me: udhaya733870@gmail.com;
 
-👨‍💻 All of my projects are available at my [Portfolio](https://udhaya-portfolio25.netlify.app/)
+👨‍💻 All of my projects are available at my [Portfolio](https://udhaya25.netlify.app/)
 
 📄 Know about my experiences view my [Resume](https://drive.google.com/uc?export=download&id=15wyY-i1MuzltqsJGrSOKE2i9a5bJGdtB)
 <br><br><br>
